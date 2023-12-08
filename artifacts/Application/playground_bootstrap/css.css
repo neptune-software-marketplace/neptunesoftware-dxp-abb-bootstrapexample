@@ -1,0 +1,23 @@
+// *[class*="nbs"] {
+//     box-sizing: border-box;
+// }
+
+// [class*="nbs"] * {
+//     box-sizing: border-box;
+// }
+
+// .nbsTable .table,
+// .nbsAccordion .accordion-button,
+// .nbsInput .form-control,
+// .nbsSelect .form-select,
+// .nbsDropdownItem .dropdown-item,
+// ::after,
+// ::before {
+//     box-sizing: border-box;
+// }
+
+// *,
+// ::after,
+// ::before {
+//     box-sizing: content-box;
+// }

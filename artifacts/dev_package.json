@@ -1,0 +1,51 @@
+{
+	"id": "0be80c06-30a2-443f-805f-1d1f681415e0",
+	"createdAt": "2023-12-08T16:19:17.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-bootstrapexample"
+	},
+	"name": "neptunesoftware-dxp-abb-bootstrapexample",
+	"description": null,
+	"ver": "23.12.8.1620",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "33edf5db-f519-4c4e-80b5-01cde229c2e4",
+			"application": "playground_bootstrap",
+			"title": "UI5 Bootstrap",
+			"description": "UI5 Bootstrap",
+			"package": {
+				"id": "0be80c06-30a2-443f-805f-1d1f681415e0"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
